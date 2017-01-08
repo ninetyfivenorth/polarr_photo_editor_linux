@@ -6,7 +6,7 @@
 
 [Download v1.0.0, last updated in mid 2016](https://s3-us-west-2.amazonaws.com/polarrelectron/ubuntu/polarr_1.0.0-1_amd64.deb)
 
-## Technology and support
+## Technology, features ad and OS support
 Polarr for Linux is built with Electron packaged app wrapping [Photo Editor for ChromeOS offline](https://www.polarr.co/chrome), therefore the features in the Linux version is nearly identical to our ChromeOS distribution. The .deb installer package was created and tested on Ubuntu 16.04 LTS. We did not test on other Linux OS. 
 
 ## RAW support
@@ -20,6 +20,11 @@ You can contact [support@polarr.co](mailto:support@polarr.co) if you have any qu
 
 ## How frequently is the app updated?
 Every two to three months in 2017.
+
+## What is the purpose of this Github page? Can I contribute? 
+Polarr carries a proprietary license, the intention of this public repo is to keep track of version updates for upcoming .deb packages, or store scripts to help users to install Polarr on other Linux OS. You can send us pull requests if you want to document how to install the .deb package elsewhere.  
+
+
 
 
 
