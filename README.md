@@ -1,5 +1,5 @@
 # Polarr Photo Editor for Linux
-[Polarr](https://www.polarr.co) is currently available on Linux, Android, iOS, macOS, Windows, and ChromeOS. This page documents how you can download, install and purchase the Linux version of Polarr. 
+[Polarr](https://www.polarr.co) is currently available on Linux, Android, iOS, macOS, Windows, and ChromeOS. This page documents how you can download, install, and purchase the Linux version of Polarr. 
 
 ## Download installable .deb packages
 [Download v4.4.5, last updated 21 Dec 2017](https://pickystore.blob.core.windows.net/models/polarr_4.4.5_amd64_xenial.deb)
@@ -34,7 +34,7 @@ As the Linux package is a wrapper version from our ChromeOS package, you can buy
 The difference between the Linux version and ChromeOS version is that the Linux version uses native libraries to provide raw support and face detection. LibRAW is embedded into the package and can decode and process RAW photos better than the web version.
 
 ## Having problem?
-You can contact [support@polarr.co](mailto:support@polarr.co) if you have any question. 
+You can contact [support@polarr.co](mailto:support@polarr.co) if you have any questions. 
 
 ## What is the purpose of this Github page? Can I contribute? 
 Polarr carries a proprietary license, the intention of this public repo is to keep track of version updates for upcoming .deb packages, or store scripts to help users to install Polarr on other Linux OS. You can send us pull requests if you want to document how to install the .deb package elsewhere. If you would like to submit translations, email [support@polarr.co](mailto:support@polarr.co).
