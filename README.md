@@ -2,7 +2,7 @@
 [Polarr](https://www.polarr.co) is currently available on Linux, Android, iOS, macOS, Windows, and ChromeOS. This page documents how you can download, install, and purchase the Linux version of Polarr. 
 
 ## Polarr in the Software Store
-Install Polarr on Linux via the [Software Store](snap://polarr) where it will receive automatic updates and bugfixes. We officially only support Polarr on Ubuntu 16.04 and 17.10, but this Snap installer should also work on most Linux distributions.
+Install Polarr on Linux via the cross-platform [SnapCraft Store](https://snapcraft.io/polarr/) where it will receive automatic updates and bugfixes. We officially only support Polarr on Ubuntu 16.04 and 17.10, but it should run on all Linux distributions with Snap support.
 
 ## Alternative installers
 [Deb installer v4.4.5, last updated 21 Dec 2017](https://pickystore.blob.core.windows.net/models/polarr_4.4.5_amd64_xenial.deb)
