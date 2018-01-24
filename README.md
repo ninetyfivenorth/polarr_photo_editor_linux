@@ -1,12 +1,15 @@
 # Polarr Photo Editor for Linux
 [Polarr](https://www.polarr.co) is currently available on Linux, Android, iOS, macOS, Windows, and ChromeOS. This page documents how you can download, install, and purchase the Linux version of Polarr. 
 
-## Download installable .deb packages
-[Download v4.4.5, last updated 21 Dec 2017](https://pickystore.blob.core.windows.net/models/polarr_4.4.5_amd64_xenial.deb)
+## Polarr in the Software Store
+Install Polarr on Linux via the [Software Store](snap://polarr) where it will receive automatic updates and bugfixes. We officially only support Polarr on Ubuntu 16.04 and 17.10, but this Snap installer should also work on most Linux distributions.
 
-[Download v4.0.0, last updated in Jan 2017](https://s3-us-west-2.amazonaws.com/polarrelectron/ubuntu/polarr_4.0.0_amd64.deb)
+## Alternative installers
+[Deb installer v4.4.5, last updated 21 Dec 2017](https://pickystore.blob.core.windows.net/models/polarr_4.4.5_amd64_xenial.deb)
 
-[Download v1.0.0, last updated in mid 2016](https://s3-us-west-2.amazonaws.com/polarrelectron/ubuntu/polarr_1.0.0-1_amd64.deb)
+[Deb installer v4.0.0, last updated in Jan 2017](https://s3-us-west-2.amazonaws.com/polarrelectron/ubuntu/polarr_4.0.0_amd64.deb)
+
+[Deb installer v1.0.0, last updated in mid 2016](https://s3-us-west-2.amazonaws.com/polarrelectron/ubuntu/polarr_1.0.0-1_amd64.deb)
 
 ## What's new in 4.4.5
 * Support more types of raw files at full resolution.
